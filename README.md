@@ -5,8 +5,8 @@ Esse projeto pode ser utilizado para gerenciar cursos (incluindo curso, editando
 
 Esse projeto segue o padrão MVC, onde seus arquivos possuem Models, Controllers e Viewes.
 
-Para utilização desse projeto faz-se necessária a criação de uma base de dados local com o nome curso. Onde o usuário do banco seja root e não possua senha.
+Para utilização desse projeto faz-se necessária a criação de uma base de dados local com o nome <b>curso</b>. Onde o usuário do banco seja <b>root</b> e não possua senha.
 
-Após download do projeto faz-se necessária também a criação das tabelas, por meio de migration (php artisan migrate).
+Após download do projeto faz-se necessária também a criação das tabelas, por meio de <b>migration (php artisan migrate)</b>.
 
 Depois de configurado o ambiente, conforme explanado acima, pode ser feito o uso do sistema sem problemas.
